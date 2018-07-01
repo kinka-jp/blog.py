@@ -1,0 +1,2 @@
+# blog.py
+python django
